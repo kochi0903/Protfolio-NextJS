@@ -13,8 +13,6 @@ export async function POST(request: Request) {
       );
     }
     
-    // In a real application, you would send this data to your email service
-    // For example: using Nodemailer, SendGrid, etc.
     console.log('Contact form submission:', { name, email, message });
     
     // Return success response

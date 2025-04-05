@@ -20,7 +20,7 @@ export default function About() {
           
           <h2>My Journey</h2>
           <p>
-            I started my coding journey in 2022 and have been constantly learning and improving ever since.
+            I started my coding journey in 2020 and have been constantly learning and improving ever since.
             This blog is a place where I document my learning process and share helpful tips with others 
             who are on a similar path.
           </p>
@@ -28,13 +28,13 @@ export default function About() {
           <h2>What I'm Working On</h2>
           <p>
             Currently, I'm focused on mastering Next.js and expanding my knowledge of backend technologies.
-            I'm also interested in exploring mobile development with React Native.
+            I'm also interested in exploring backend development with NodeJS and Cloud Deployment.
           </p>
           
           <h2>Let's Connect</h2>
           <p>
             Feel free to reach out if you'd like to collaborate on a project or just chat about web development!
-            You can contact me through the <a href="/contact">contact form</a> or find me on social media.
+            You can contact me through the <a href="roy-kisholoy.vercel.app">contact form</a> or find me on social media.
           </p>
         </div>
       </div>
